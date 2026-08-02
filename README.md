@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Criko 👋</h1> 
+<h1 align="center">Hola, soy 𝗚𝗥𝗘𝗖𝗢</h1> 
 <h3 align="center">Full Stack Developer en formación</h3> 
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
-🚀 Sobre mí
+<h3 align="center">__▂▂▃▃▄▄ Sobre mí ▄▄▃▃▂▂_▁</h3>
 
 Estudiante de Tecnicatura Superior en Informática Aplicada (UTN) y de Full Stack Web Development (CoderHouse). Actualmente desarrollo proyectos personales para fortalecer mis conocimientos y seguir creciendo como desarrollador.
 
@@ -14,10 +14,10 @@ Estudiante de Tecnicatura Superior en Informática Aplicada (UTN) y de Full Stac
 
 Dancer.ly — Aplicación web para la gestión de equipos, coreografías y ensayos.
 
-Registro e inicio de sesión con persistencia de datos
-CRUD de proyectos con filtros y ordenamiento
-Migración del proyecto a React
-Integración de Firebase y carga de imágenes (en desarrollo)
+🖙 Registro e inicio de sesión con persistencia de datos
+🖙 CRUD de proyectos con filtros y ordenamiento
+🖙 Migración del proyecto a React
+🖙 Integración de Firebase y carga de imágenes (en desarrollo)
 
 Tecnologías: HTML5 · CSS3 · JavaScript · React · React Native · Node.js · Express · Firebase · SQLite · Git · GitHub
 
