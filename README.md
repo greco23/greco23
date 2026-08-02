@@ -9,6 +9,10 @@ Actualmente desarrollo proyectos personales para fortalecer mis conocimientos y 
 ▸ Explorando React Native (Expo) para desarrollo móvil<br>
 ▸ Construyendo Dancer.ly, una aplicación full stack para gestión de equipos de baile </p>
 <h3 align="center">Proyecto destacado</h3> 
-<p align="center"><b>Dancer.ly</b> — Aplicación web para la gestión de equipos, coreografías y ensayos.</p> <p align="center"> 🖙 Registro e inicio de sesión con persistencia de datos<br> 🖙 CRUD de proyectos con filtros y ordenamiento<br> 🖙 Migración del proyecto a React<br> 🖙 Integración de Firebase y carga de imágenes (en desarrollo) </p> <p align="center"><b>Tecnologías:</b> HTML5 · CSS3 · JavaScript · React · React Native · Node.js · Express · Firebase · SQLite · Git · GitHub</p>
+<p align="center"><b>Dancer.ly</b> — Aplicación web para la gestión de equipos, coreografías y ensayos.</p> 
+<p align="center"> ▸ Registro e inicio de sesión con persistencia de datos<br> 
+  ▸ CRUD de proyectos con filtros y ordenamiento<br> 
+  ▸ Migración del proyecto a React<br> 
+  ▸ Integración de Firebase y carga de imágenes (en desarrollo) 
 <h3 align="center">Estadísticas</h3> <p align="center"> <img height="165em" src="https://github-stats-extended.vercel.app/api?username=greco23&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=greco23&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 <h3 align="center">Contacto</h3> <p align="center"> <a href="mailto:greco.fer23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/greco-fernadez23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
